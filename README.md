@@ -31,8 +31,10 @@ It includes a **Home page** and a **Contact page** to showcase basic personal in
 
 portfolio
 
-├── index.html      (Home Page)
-├── contact.html    (Contact Page)
+├── index.html      (Home Page) 
+
+├── contact.html    (Contact Page) 
+
 ├── style.css
 
 
